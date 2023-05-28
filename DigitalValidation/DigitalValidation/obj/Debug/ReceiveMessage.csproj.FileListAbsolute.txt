@@ -1,0 +1,7 @@
+C:\Users\edgar\source\repos\DigitalValidation\DigitalValidation\bin\Debug\DigitalValidation.exe.config
+C:\Users\edgar\source\repos\DigitalValidation\DigitalValidation\bin\Debug\DigitalValidation.exe
+C:\Users\edgar\source\repos\DigitalValidation\DigitalValidation\bin\Debug\DigitalValidation.pdb
+C:\Users\edgar\source\repos\DigitalValidation\DigitalValidation\obj\Debug\ReceiveMessage.csproj.AssemblyReference.cache
+C:\Users\edgar\source\repos\DigitalValidation\DigitalValidation\obj\Debug\ReceiveMessage.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\DigitalValidation\DigitalValidation\obj\Debug\DigitalValidation.exe
+C:\Users\edgar\source\repos\DigitalValidation\DigitalValidation\obj\Debug\DigitalValidation.pdb

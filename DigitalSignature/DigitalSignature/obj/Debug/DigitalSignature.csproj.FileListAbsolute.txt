@@ -1,0 +1,7 @@
+C:\Users\edgar\source\repos\DigitalSignature\DigitalSignature\bin\Debug\DigitalSignature.exe.config
+C:\Users\edgar\source\repos\DigitalSignature\DigitalSignature\bin\Debug\DigitalSignature.exe
+C:\Users\edgar\source\repos\DigitalSignature\DigitalSignature\bin\Debug\DigitalSignature.pdb
+C:\Users\edgar\source\repos\DigitalSignature\DigitalSignature\obj\Debug\DigitalSignature.csproj.AssemblyReference.cache
+C:\Users\edgar\source\repos\DigitalSignature\DigitalSignature\obj\Debug\DigitalSignature.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\DigitalSignature\DigitalSignature\obj\Debug\DigitalSignature.exe
+C:\Users\edgar\source\repos\DigitalSignature\DigitalSignature\obj\Debug\DigitalSignature.pdb
